@@ -17,5 +17,5 @@ Total in tips
 All-in total, and
 Total for each person
 
-![splitWise1](https://github.com/Snehal9146/Split-Wise/assets/95754301/80e04387-1eb7-4e8a-8ab2-dd9639f7a407)
-![splitwise2](https://github.com/Snehal9146/Split-Wise/assets/95754301/12db4537-54a2-4c46-a2ed-a36ee13eeb51)
+![splitwiseI](https://github.com/Snehal9146/Split-Wise/assets/95754301/896ae775-2faf-4879-afd9-07f02ec401f9)
+![splitwiseII](https://github.com/Snehal9146/Split-Wise/assets/95754301/5a3d24d4-34ee-4f77-b61b-4e7abfde1940)
